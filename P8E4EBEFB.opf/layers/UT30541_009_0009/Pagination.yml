@@ -1,0 +1,100 @@
+id: 5f2e9abd4b0348bfade5c869478963d8
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  ba0e24ddf7c9406fa0a53e2848d7aecf:
+    span:
+      start: 5978
+      end: 7397
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EPB053DB630D75A24D
+  839611f63c8446609c9581cd4f9e544e:
+    span:
+      start: 15079
+      end: 16175
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EPD28E4B7630DAAC42
+  35c3eb650b414ec0a8062f50ab6edc09:
+    span:
+      start: 4472
+      end: 5976
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EPAA2E7DE4D85CDDAF
+  21bb5f0081bc410386d297b2517dd214:
+    span:
+      start: 1510
+      end: 2989
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP701074FF1264C6E1
+  c011b8d1fd124a1380adcc6c5dff0816:
+    span:
+      start: 8872
+      end: 10497
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EP5DEF721266994415
+  249e706a72e446fdbdf879dc514bef6f:
+    span:
+      start: 10499
+      end: 12111
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EP2A206AF4BBBDA3CE
+  5a7e8e65511741c5a1a6e39a689c1bbc:
+    span:
+      start: 63
+      end: 1508
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP3752002097700C90
+  3973785c7f6d4fc6b4118cbae5fd5424:
+    span:
+      start: 12113
+      end: 13630
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EP729419AF56D86EEE
+  f354cc48146f4248baf825006c9a7354:
+    span:
+      start: 13632
+      end: 15077
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EPAB8E23F1E1C633E0
+  b02ff38ff654439f849131cdeae70791:
+    span:
+      start: 2991
+      end: 4470
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EPC500CC0C024A5741
+  100cf8ef7dcd414081ed84651d1789ae:
+    span:
+      start: 7399
+      end: 8870
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EP54C217BC968E27D0
+  c9b4b8ae138140a9877b90e064edb33f:
+    span:
+      start: 0
+      end: 61
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP4DCEA56E0872EA9A

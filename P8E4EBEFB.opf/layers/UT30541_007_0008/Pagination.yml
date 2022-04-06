@@ -1,0 +1,100 @@
+id: a23a78b92fe547a984c881abd2f43b92
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  7310d4f2cadc40d29cf6ce7ca8c31447:
+    span:
+      start: 14526
+      end: 15186
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP4B0821A994E88D65
+  384ad8cbce124565901e89ce85e00302:
+    span:
+      start: 7375
+      end: 8780
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EPFBC606B7403A9049
+  d0da655b60b94779a3c979e776c8765e:
+    span:
+      start: 5954
+      end: 7373
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EP0393B28DDA1F5BD8
+  4b1000e297964d85bb67d863fe11b6bf:
+    span:
+      start: 13128
+      end: 14524
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EPC7D96172D9980B6A
+  6fe68115723c4b6aa6b45c9f99d924e5:
+    span:
+      start: 8782
+      end: 10198
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EP97ED6A50CB98E0E4
+  57503ad9c0844b3bbbd4aa8de971670f:
+    span:
+      start: 11652
+      end: 13126
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EP18D411029E1FC2DD
+  86851dc3675549e68dd8170158edfc5a:
+    span:
+      start: 10200
+      end: 11650
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EP23B482C78F4ED585
+  79d0f00e83604a429b067f6f7fae9209:
+    span:
+      start: 2952
+      end: 4530
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EP5EEE4C7CE9CECC98
+  2aa55fcd37234b249e3ef0383bfb6b74:
+    span:
+      start: 1494
+      end: 2950
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EPA9FD85BCCD159904
+  75c3efebbd5144d7afc48422366ea8a3:
+    span:
+      start: 4532
+      end: 5952
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EP949F96F684502A6A
+  087f476770a940e786eb204075d667f4:
+    span:
+      start: 77
+      end: 1492
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP0BD2CB1D5C744520
+  6133aed9e49b4f80bb878b99af09aaa6:
+    span:
+      start: 0
+      end: 75
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP93A646478D9493B3
